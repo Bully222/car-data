@@ -36,6 +36,16 @@
     "dailyPrice": 199,
     "imageUrl": "https://flib.samar.pl/800/300/812331ed72658fcd1b7.jpg",
     "location": "Gdansk"
+  },
+  {
+    "id": "5",
+    "make": "BMW",
+    "model": "3 Series",
+    "year": 2022,
+    "dailyPrice": 299,
+    "imageUrl": "https://flib.samar.pl/800/300/812331ed72658fcd1b7.jpg",
+    "location": "Poznan"
+    
   }
 ]
   
