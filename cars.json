@@ -28,14 +28,5 @@
     "imageUrl": "https://loremflickr.com/640/480/car?lock=3",
     "location": "Krakow"
   },
-  {
-    "id": "4",
-    "make": "BMW",
-    "model": "3 Series",
-    "year": 2022,
-    "dailyPrice": 199,
-    "imageUrl": "https://flib.samar.pl/800/300/812331ed72658fcd1b7.jpg",
-    "location": "Gdansk"
-  }
 ]
   
