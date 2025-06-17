@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "make": "Toyota",
-    "model": "Corolla",
-    "year": 2023,
-    "dailyPrice": 219,
-    "imageUrl": "https://loremflickr.com/640/480/car?lock=1",
+    "make": "Mercedes-Benz",
+    "model": "A Klasa",
+    "year": 2022,
+    "dailyPrice": 169,
+    "imageUrl": "https://img.chceauto.pl/mercedes-benz/a-klasa/mercedes-benz-a-klasa-hatchback-5-drzwiowy-4235-45100_v1.jpg",
     "location": "Warszawa"
     
   },
@@ -21,11 +21,11 @@
   },
   {
     "id": "3",
-    "make": "Renault",
-    "model": "Clio",
+    "make": "Audi",
+    "model": "A5",
     "year": 2021,
-    "dailyPrice": 99,
-    "imageUrl": "https://loremflickr.com/640/480/car?lock=3",
+    "dailyPrice": 199,
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2021-audi-a5-sportback-mmp-1-1589233966.jpg?crop=0.813xw:0.760xh;0.143xw,0.125xh&resize=1200:*",
     "location": "Krakow"
   }
 ]
